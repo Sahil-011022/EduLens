@@ -4,13 +4,13 @@ import { getFirestore } from 'firebase/firestore';
 import { getStorage } from 'firebase/storage';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBur8QCwtniQcUxZGtQwsF54P4f1wB7Peg",
-  authDomain: "edulens-544ff.firebaseapp.com",
-  projectId: "edulens-544ff",
-  storageBucket: "edulens-544ff.firebasestorage.app",
-  messagingSenderId: "1027223862383",
-  appId: "1:1027223862383:web:6a553af04836a6b36a219a",
-  measurementId: "G-FKW93VZY4F"
+  apiKey: "AIzaSyBK3xxJfpGg1uAp1YxUTmztrEzHIqFfKos",
+  authDomain: "edulens-ff3aa.firebaseapp.com",
+  projectId: "edulens-ff3aa",
+  storageBucket: "edulens-ff3aa.firebasestorage.app",
+  messagingSenderId: "719649220635",
+  appId: "1:719649220635:web:3453c4ea80f7e3d1c7b0be",
+  measurementId: "G-CB9C0MK5BW"
 };
 
 const app = initializeApp(firebaseConfig);
